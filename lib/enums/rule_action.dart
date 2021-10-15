@@ -1,0 +1,4 @@
+enum RuleActionEnum {
+  start,
+  stop
+}

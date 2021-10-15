@@ -1,0 +1,4 @@
+enum RulesConditionEnum {
+  and,
+  or
+}
